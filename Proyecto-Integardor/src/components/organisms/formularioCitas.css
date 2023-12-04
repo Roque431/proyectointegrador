@@ -1,0 +1,100 @@
+.entradas{
+    margin-left: 20px;
+    border: 1px solid black;
+    width: 400px;
+}
+
+.entradas1{
+    margin-left: 20px;
+    border: 1px solid black;
+    width: 300px;
+    margin-right: 20px;
+}
+
+.calen{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 120px;
+    height: 40px;
+}
+
+.hoar{
+    margin-left: 20px;
+}
+
+.contac{
+    margin-top: 15px;
+    display: flex;
+    margin-left: 20px;
+}
+
+.telf{
+    margin-left: 20px;
+    border: 1px solid black;
+    width: 250px;
+    margin-right: 20px;
+}
+
+.lugar{
+    margin-left: 20px;
+    border: 1px solid black;
+    width: 250px;
+    margin-right: 20px;
+}
+
+.salidas{
+    font-size: 1.4rem;
+}
+
+.titulo{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-size: 2.3rem;
+    text-align: center;
+}
+
+.nombres{
+    margin-left: 20px;
+}
+
+.MFH{
+    margin-left: 20px;
+    margin-top: 15px;
+    display: flex;
+}
+
+.direc{
+    margin-top: 15px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.tmdi{
+    margin-left: 20px;
+    border: 1px solid black;
+    width: 320px;
+    margin-right: 20px;
+    height: 80px;
+}
+
+.motivo{
+    margin-top: 15px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+
+.botom{
+    position: absolute;
+    top: 340px;
+    left: 45%;
+}
+
+.contecent{
+    position: absolute;
+    left: 5%;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+
+}

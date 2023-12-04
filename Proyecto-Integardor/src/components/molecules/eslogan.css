@@ -1,0 +1,14 @@
+#EslogEstru{
+    margin-top: 50px;
+    position: absolute;
+    width: 65%;
+    left: 17.5%;
+}
+
+#EslogEstru h2{
+    font-size: 2.5rem;
+} 
+
+#EslogEstru p{
+    font-size: 1.8rem;
+}

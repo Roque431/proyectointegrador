@@ -1,0 +1,32 @@
+#ContAbout{
+    top: 760px;
+    background-color: white;
+    height: 300px;
+}
+    #EstrucAbout{
+        position: absolute;
+        display: flex;
+        width: 85%;
+        height: auto;
+        left: 7.5%;
+    }
+
+    #Anlys{
+        width: 300px;
+    }
+
+    #InfoAbout{
+        margin-top: 20px;
+        width: 60%;
+        display: inline-block;
+        left: 37%;
+    }
+
+    #InfoAbout h2{
+        font-size: 2rem;
+    }
+
+    #InfoAbout p{
+        font-size: 1.5rem;
+        text-align: justify;
+    }

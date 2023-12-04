@@ -1,0 +1,45 @@
+#ComtServ{
+    top: 1510px;
+    height: 700px;
+    background-color: transparent;
+}
+    #EstrucServ{
+        display: inline-block;
+        width: 90%;
+        height: 675px;
+        left: 5%;
+        background-color: rgba(233, 251, 248, 1);
+        border-radius: 15px;
+        text-align: center;
+    }
+
+    #CardsServ{
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        width: 90%;
+        left: 5%;
+    }
+
+    #estyCar{
+        width: 24%;
+        background-color: white;
+        border-top: 5px solid rgba(96, 225, 203, 1);
+        height: 500px;
+    }
+
+    #mainti{
+        margin: 50px;
+        font-size: 2.5rem;
+    }
+
+    #tamim{
+        width: 180px;
+        margin: 10px;
+        border-radius: 15px;
+    }
+
+    #estyCar p{
+        margin: 25px;
+        text-align: justify;
+    }

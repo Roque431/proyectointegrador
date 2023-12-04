@@ -1,0 +1,38 @@
+.seleccionth{
+    width: 40px;
+    border: 1px solid black;
+}
+
+.idth{
+    text-align: center;
+    border: 1px solid black;
+}
+
+.horath{
+    text-align: center;
+    border: 1px solid black;
+    width: 120px;
+}
+
+.nombreth{
+    text-align: center;
+    border: 1px solid black;
+    width: 220px;
+}
+
+.lugarth{
+    text-align: center;
+    border: 1px solid black;
+    width: 220px;
+}
+
+.estadoth{
+    text-align: center;
+    border: 1px solid black;
+    width: 120px;
+}
+
+.accionesth{
+    text-align: center;
+    border: 1px solid black;
+}

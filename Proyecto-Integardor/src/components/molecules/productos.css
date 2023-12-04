@@ -1,0 +1,35 @@
+#recip{
+    top: 3135px;
+    height: 400px;
+    background-color: white;
+}
+
+#contaiPro{
+    margin-top: 30px;
+    width: 85%;
+    left: 7.5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#estruc{
+    width: 50%;
+}
+
+#estruc h2{
+    margin: 20px;
+    font-size: 2.5rem;
+}
+
+#estruc p{
+    font-size: 1.7rem;
+    text-align: justify;
+}
+
+#prodi{
+    width: 420px;
+    background-color: rgba(245, 246, 250, 1);
+    border-radius: 10px;
+    height: 330px;
+}

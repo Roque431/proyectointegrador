@@ -1,0 +1,10 @@
+#topCarru{
+    top: 160px;
+    height: 320px;
+}
+
+#CarrImg{
+    position: relative;
+    width: 1400px ;
+    height: 320px;
+}

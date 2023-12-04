@@ -1,0 +1,78 @@
+.selctionth{
+    width: 40px;
+   border: 1px solid black;
+}
+
+.thid{
+    text-align: center;
+    border: 1px solid black;
+    width: 70px;
+}
+
+.thnombre{
+    text-align: center;
+    border: 1px solid black;
+    width: 190px;
+}
+
+.thmascota{
+    text-align: center;
+    border: 1px solid black;
+    width: 190px;
+}
+
+.thestado{
+    text-align: center;
+    border: 1px solid black;
+    width: 120px;
+}
+
+.thcita{
+    text-align: center;
+    border: 1px solid black;
+    width: 120px;
+}
+
+.thactions{
+    text-align: center;
+    width: 230px;
+    border: 1px solid black;
+}
+
+#pruevaposition{
+    position: absolute;
+    top: 80%;
+}
+
+.iconocerrar{
+    position: relative;
+    top: 15px;
+    left: 94%;
+    cursor: pointer;
+}
+
+.infocli{
+ text-align: left;
+}
+
+.pcar{
+    text-align: center;
+
+    width: 50px;
+}
+
+.pna{
+    text-align: center;
+
+    width: 150px;
+}
+.ppet{
+    text-align: center;
+
+    width: 150px;
+}
+.thactionscar{
+    text-align: center;
+    width: 120px;
+
+}

@@ -1,0 +1,83 @@
+.selctionth{
+    width: 40px;
+   border: 1px solid black;
+}
+
+.idth1{
+    text-align: center;
+    border: 1px solid black;
+    width: 70px;
+}
+
+.horath2{
+    text-align: center;
+    border: 1px solid black;
+    width: 190px;
+}
+
+.nombreth3{
+    text-align: center;
+    border: 1px solid black;
+    width: 190px;
+}
+
+.lugarth4{
+    text-align: center;
+    border: 1px solid black;
+    width: 200px;
+}
+
+.estadoth5{
+    text-align: center;
+    border: 1px solid black;
+    width: 120px;
+}
+
+.accionesth6{
+    text-align: center;
+    width: 250px;
+    border: 1px solid black;
+}
+
+#pruevaposition{
+    position: absolute;
+    top: 80%;
+}
+
+.iconocerrar{
+    position: relative;
+    top: 15px;
+    left: 94%;
+    cursor: pointer;
+}
+
+.infocli{
+ text-align: left;
+}
+
+.thidcar{
+    text-align: center;
+    border: 1px solid black;
+    width: 50px;
+}
+
+.thnombrecar{
+    text-align: center;
+    border: 1px solid black;
+    width: 150px;
+}
+.thmascotacar{
+    text-align: center;
+    border: 1px solid black;
+    width: 150px;
+}
+.thactionscar{
+    text-align: center;
+    width: 120px;
+    border: 1px solid black;
+}
+
+.botompro{
+    width: 40%;
+    background-color: rgba(45, 202, 140, 1);
+}

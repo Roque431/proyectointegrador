@@ -1,0 +1,28 @@
+#ContSobre{
+    background-color: white;
+    top: 2220px; 
+    height: 320px;
+}
+#estrucSbre{
+    position: relative;
+    width: 90%;
+    height: 290px;
+    left: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#bloques{
+    width: 45%;
+    display: flex;
+    justify-content:space-between;
+}
+
+#imgSBD{
+    width: 280px;
+    height: 280px;
+}
+
+#conte{
+    margin-top: 10%;
+}

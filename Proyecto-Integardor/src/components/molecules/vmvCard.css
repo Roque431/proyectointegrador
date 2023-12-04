@@ -1,0 +1,23 @@
+#ContCards{
+    background-color: transparent;
+    top: 1060px;
+    height: 400px;
+}
+
+#EstruCards{
+    top: 10%;
+    width: 90%;
+    left: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#cards{
+    width: 30%;
+    background-color: rgba(234, 219, 200, 1);
+}
+
+#cards p{
+    text-align: justify;
+    margin: 25px;
+}

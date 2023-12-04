@@ -1,0 +1,30 @@
+.navmenu{
+    position: relative;
+    width: 80%;
+    left: 10%;
+    height: 200px;
+}
+
+.ulmenu{
+    font-size: 1.7rem;
+}
+
+.lipro{
+    margin: 20px;
+    width: 180px;
+    border-radius: 15px;
+}
+
+   .lipro:hover{
+    background-color: rgba(55, 149, 189, 1);
+   } 
+
+.li2pro{
+    margin: 20px;
+    width: 140px;
+    border-radius: 15px;
+}
+
+    .li2pro:hover{
+        background-color: rgba(55, 149, 189, 1);
+    }

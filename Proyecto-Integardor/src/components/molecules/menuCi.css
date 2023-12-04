@@ -1,0 +1,30 @@
+.navmenu{
+    position: relative;
+    width: 80%;
+    left: 10%;
+    height: 200px;
+}
+
+.ulmenu{
+    font-size: 1.7rem;
+}
+
+.limenu{
+    margin: 20px;
+    width: 60px;
+    border-radius: 15px;
+}
+
+   .limenu:hover{
+    background-color: rgba(55, 149, 189, 1);
+   } 
+
+.li2menu{
+    margin: 20px;
+    width: 90px;
+    border-radius: 15px;
+}
+
+    .li2menu:hover{
+        background-color: rgba(55, 149, 189, 1);
+    }

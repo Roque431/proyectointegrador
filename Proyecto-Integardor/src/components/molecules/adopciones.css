@@ -1,0 +1,49 @@
+#ContAdop{
+    top: 2550px;
+    background-color: rgba(249, 224, 174, 1);
+    height: 585px;
+}
+
+#estrucAdop h2{
+    margin: 20px;
+}
+
+#estrucAdop{
+    width: 90%;
+    left: 5%;
+    display: inline-block;
+    text-align: center;
+}
+
+#contCad{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+    height: 410px;
+}
+
+#cardsAdop{
+    background-color: white;
+    border: 3px solid rgba(194, 73, 20, 1);
+    border-radius: 15px;
+    width: 30%;
+    height: 410px;
+}
+
+#imgAdop{
+    width: 180px;
+    margin-top: 20px;
+}
+
+#cardsAdop h2{
+    margin: 15px;
+}
+
+#cardsAdop p{
+    margin: 15px;
+    text-align: justify;
+}
+
+#tutam{
+    font-size: 2.5rem;
+}
